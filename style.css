@@ -1,0 +1,115 @@
+.container1 {
+    display: flex;
+    max-width: 960px;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0px;
+}
+.container2 {
+    display: flex;
+    max-width: 960px;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin: 20px 0px;
+}
+.container3 {
+    display: flex;
+    max-width: 960px;
+    min-width: 200px;
+    align-items: flex-end;
+    gap: 10px;
+    margin: 20px 0px;
+}
+.container4 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    min-width: 250px;
+    gap: 10px;
+    margin: 20px 0px;
+}
+.container5 {
+    display: flex;
+    min-width: 250px;
+    gap: 10px;
+    margin: 20px 0px;
+}
+.grid {
+    height: 100px;
+    width: 29%;
+    background-color: rgb(223, 192, 53);
+}
+
+.stack {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(218, 94, 45);
+}
+.bars1 {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(85, 210, 241);
+}
+.bars2 {
+    height: 200px;
+    width: 100%;
+    background-color: rgb(85, 210, 241);
+}
+.bars3 {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(85, 210, 241);
+}
+.bars4 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(85, 210, 241);
+}
+.bars5 {
+    height: 120px;
+    width: 100%;
+    background-color: rgb(85, 210, 241);
+}
+.c1 {
+    height: 100px;
+    width: 48%;
+    background-color: rgb(241, 85, 106);
+    
+}
+.c2 {
+    height: 100px;
+    width: 48%;
+    background-color: rgb(241, 85, 106);
+}
+.c3 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(241, 85, 106);
+}
+.c4 {
+    height: 100px;
+    width: 48%;
+    background-color: rgb(241, 85, 106);
+}
+.c5 {
+    height: 100px;
+    width: 48%;
+    background-color: rgb(241, 85, 106);
+}
+.d1 {
+    height: 200px;
+    width: 15%;
+    background-color: rgb(95, 85, 241);
+    
+}
+.d2 {
+    height: 200px;
+    width: 70%;
+    background-color: rgb(95, 85, 241);
+}
+.d3 {
+    height: 200px;
+    width: 15%;
+    background-color: rgb(95, 85, 241);
+}
